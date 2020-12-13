@@ -1,0 +1,7 @@
+networkx==2.5
+python-louvain
+nxviz==0.6.2
+beautifulsoup4
+selenium
+lxml
+statsmodels
